@@ -1,1 +1,1 @@
-{"appid":"www.compyoot.mypuzzle","name":"MyPuzzle","show":"765eb7d5ed0a42cd33beb144515ce0ce","url":"http://www.baidu.com"}
+{"appid":"www.compyoot.mypuzzle","name":"MyPuzzle","show":"show","url":"http://www.baidu.com"}
