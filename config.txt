@@ -1,1 +1,1 @@
-{"appid":"com.sscoome.huabantoo","name":"SSC","show":"show","url":"http://mbjia.github.io/"}
+{"appid":"www.compyoot.mypuzzle","name":"MyPuzzle","show":"765eb7d5ed0a42cd33beb144515ce0ce","url":"http://www.baidu.com"}
