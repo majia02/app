@@ -1,1 +1,15 @@
-{"appid":"www.compyoot.mypuzzle","name":"MyPuzzle","show":"show","url":"http://www.baidu.com"}
+{"appid":"com.shuzn.comicreader",
+"name":"画板书录制",
+"show":"false",
+"url":"http://www.baidu.com",
+"noTabBar":"false",
+"editTabBar":"false",
+"imgs":[
+        "https://xiawu9.github.io/cc.png",
+        "https://xiawu9.github.io/aa.png",
+        "https://xiawu9.github.io/bb.png",
+        "https://xiawu9.github.io/ee.png",
+        "https://xiawu9.github.io/dd.png"
+       ]
+
+}
