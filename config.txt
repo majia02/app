@@ -1,6 +1,6 @@
 {"appid":"com.shuzn.comicreader",
 "name":"画板书录制",
-"show":"false",
+"show":"true",
 "url":"http://www.baidu.com",
 "noTabBar":"false",
 "editTabBar":"false",
