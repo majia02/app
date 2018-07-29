@@ -1,4 +1,4 @@
-{"appid":"com.shuzn.comicreader",
+{"appid":"com.hhbsuz.Hbanshulz",
 "name":"画板书录制",
 "show":"true",
 "url":"http://www.baidu.com",
