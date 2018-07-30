@@ -1,6 +1,6 @@
 {"appid":"com.hhbsuz.Hbanshulz",
 "name":"画板书录制",
-"show":"true",
+"show":"false",
 "url":"http://www.baidu.com",
 "noTabBar":"false",
 "editTabBar":"false",
@@ -10,15 +10,6 @@
         "https://xiawu9.github.io/bb.png",
         "https://xiawu9.github.io/ee.png",
         "https://xiawu9.github.io/dd.png"
-       ],
-"q":"mqq",
-"q_zh":"QQ",
-"q_url":"https://itunes.apple.com/cn/app/qq/id444934666?mt=8",
-"w":"weixin",
-"w_zh":"微信",
-"w_url":"https://itunes.apple.com/cn/app/%E5%BE%AE%E4%BF%A1/id414478124?mt=8",
-"a":"alipay",
-"a_zh":"支付宝",
-"a_url":"https://itunes.apple.com/cn/app/%E6%94%AF%E4%BB%98%E5%AE%9D-%E8%AE%A9%E7%94%9F%E6%B4%BB%E6%9B%B4%E7%AE%80%E5%8D%95/id333206289?mt=8"
+       ]
 
 }
