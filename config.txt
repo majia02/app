@@ -1,6 +1,6 @@
 {"appid":"com.hhbsuz.Hbanshulz",
 "name":"画板书录制",
-"show":"show",
+"show":"true",
 "url":"http://www.baidu.com",
 "noTabBar":"false",
 "editTabBar":"false",
